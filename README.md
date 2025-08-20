@@ -18,7 +18,7 @@ This project integrates sensors and IoT components to measure and display plant 
 - **Wi-Fi Connectivity** - Enables remote data transmission
 
 ## Software & Tools Used
-- **Arduino IDE** - Development and programming of M5Stack
+- **Visual Studio Code** - Development and programming of M5Stack
 - **Mosquitto MQTT Broker** - Message passing between devices
 - **Node-RED** - Visual interface for data visualization and automation
 
