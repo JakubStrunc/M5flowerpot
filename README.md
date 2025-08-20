@@ -38,9 +38,8 @@ This project integrates sensors and IoT components to measure and display plant 
    ```sh
    git clone https://github.com/JakubStrunc/M5flowerpot.git
    ```
-2. **Open the project in Arduino IDE** and install the required libraries:
+2. **Open the project in VSCODE** and install the required libraries:
    - `M5Stack`
-   - `ArduinoJson`
    - `WiFi`
    - `PubSubClient` (for MQTT)
 3. **Configure the MQTT broker settings**.
